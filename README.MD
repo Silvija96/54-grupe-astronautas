@@ -33,8 +33,6 @@ https://git-scm.com
 🏃 Run locally
 Would like to run this project locally? Open terminal and follow these steps:
 
-Clone the repo
-git clone -------------------->
 Install NPM packages
 npm i
 or
