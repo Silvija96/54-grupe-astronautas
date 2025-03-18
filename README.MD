@@ -4,7 +4,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://silvija96.github.io/my-city/
+Site published at: https://github.com/Silvija96/54-grupe-astronautas
 Design: https://dribbble.com/shots/5964475-404-Lost-in-Space
 
 🎯 Project features/goals
