@@ -72,6 +72,9 @@ body {
   padding: 10px 0;
   margin-left: 30px;
 }
+.nav-link.active {
+  text-decoration: underline;
+}
 .nav-link:first-child {
   margin-left: 0;
 }
@@ -129,7 +132,7 @@ body {
 }
 .btn:hover {
   box-shadow: 0px 6px 12px #0007;
-  color: red;
+  color: rgb(208, 0, 255);
   border-radius: 0;
 }
 
@@ -149,8 +152,13 @@ footer {
 .social-link {
   color: #333;
   text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+  color: #ccc;
 }
-
+.social-link:first-child {
+  margin-left: 0;
+}
 .copyright {
   float: right;
   margin: 0;
